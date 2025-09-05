@@ -55,7 +55,7 @@
 
 **📎 Артефакты:**
 ## Парсер характеристик КТ
-[Исходный код на GitHub]([https://github.com/RomaSoshkin/todo-telegram-bot](https://github.com/RomaSoshkin/marketplace-parser/tree/main))
+![Исходный код на GitHub]([https://github.com/RomaSoshkin/todo-telegram-bot](https://github.com/RomaSoshkin/marketplace-parser/tree/main))
 
 ## Диаграммы процессов
 
