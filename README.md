@@ -7,7 +7,7 @@
 **Контактная информация:**
 *   **Телеграм:** @roma_soshkin
 *   **Email:** soshkinroma@yandex.ru
-*   **LinkedIn:** [Ссылка на ваш LinkedIn профиль]
+*   **HH:** [Открыть](https://hh.ru/resume/eab63370ff05d9072d0039ed1f4457414c4963)
 *   **📄 Резюме:** [Открыть](https://docs.google.com/document/d/1rjzEOZNdKjBZQS_40rbIu5MqbQ0uENLzFaW_j2jpy08/edit?usp=sharing)
 
 **О себе:**
