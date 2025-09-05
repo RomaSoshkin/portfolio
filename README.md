@@ -55,7 +55,7 @@
 
 **📎 Артефакты:**
 ## Парсер характеристик КТ
-![Исходный код на GitHub]([https://github.com/RomaSoshkin/marketplace-parser])
+![Исходный код на GitHub](https://github.com/RomaSoshkin/marketplace-parser)
 
 ## Диаграммы процессов
 
