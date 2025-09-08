@@ -170,8 +170,8 @@
 
 **Артефакты:**
 - [Полная документация в GitHub репозитории](https://github.com/RomaSoshkin/TripPlan-Travel-App-SRS)
-- [OpenAPI спецификация](/api/openapi.yaml)
-- [Пример пользовательского сценария](/docs/04_Use_Cases.md)
+- [OpenAPI спецификация](https://github.com/RomaSoshkin/TripPlan-Travel-App-SRS/blob/main/api/openapi.yaml)
+- [Пример пользовательского сценария](https://github.com/RomaSoshkin/TripPlan-Travel-App-SRS/blob/main/artifacts/Class_Diagram.png)
 
 **Пример структуры требований:**
 ```yaml
