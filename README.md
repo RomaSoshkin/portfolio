@@ -1,5 +1,5 @@
 # portfolio
-Системный аналитик | E-commerce, мобильные приложения | Портфолио с кейсами проектов, диаграммами и документацией
+Системный аналитик | E-commerce, мобильные приложения, склад, логистика, контакт-центр | Портфолио с кейсами проектов, диаграммами и документацией
 
 # Роман Сошкин
 ### Системный аналитик (E-commerce, Мобильные приложения)
@@ -18,7 +18,7 @@
 *   **Диаграммы:** BPMN 2.0, UML (Use Case, Sequence, Activity), ER-диаграммы
 *   **API:** OpenAPI/Swagger, Postman, REST, JSON
 *   **Базы данных:** SQL (PostgreSQL, Microsoft SQL Server), написание запросов
-*   **Инструменты:** Jira, Figma, Draw.io, Google Doks, Git
+*   **Инструменты:** Jira, Figma, Draw.io, Google Doks, Git, Pyton
 *   **Методологии:** Agile/Scrum, Kanban
 
 ---
